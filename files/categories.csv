@@ -1,0 +1,20 @@
+Code,Name,Slug,Image name,Parent Category Code (optional),Description
+001,Antibiotics,001,C1,,Antibiotics
+002,Pain killers,002,C2,,Pain killers
+003,Gastric,003,C3,,Gastric
+004,Vitamins,004,C4,,Vitamins
+005,Anti Histamine & Anti allergic ,005,C5,,Anti Histamine & Anti allergic 
+006,Hormone & contraception ,006,C6,,Hormone & contraception 
+007,Colo-Intestinal,007,C7,,Colo-Intestinal
+008,Pediatric,008,C8,,Pediatric
+009,Anti hypertenser,009,C9,,Anti hypertenser
+010,Anti diabetic,010,C10,,Anti diabetic
+011,Anti dyslipidemia,011,C11,,Anti dyslipidemia
+012,Anti hemorrhoid,012,C12,,Anti hemorrhoid
+013,Hepato-Renal,013,C13,,Hepato-Renal
+014,Injection,014,C14,,Injection
+015,Osteo-articulaire,015,C15,,Osteo-articulaire
+016,Cream,016,C16,,Cream
+017,ORL,017,C17,,ORL
+018,Patch & oil,018,C18,,Patch & oil
+019,Salin & Antiseptic,019,C19,,Salin & Antiseptic

@@ -1,0 +1,282 @@
+Name,Code,Barcode Symbology,Brand,Category Code,Unit Code,Sale Unit Code, Purchase Unit Code,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Image,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,HSN Code,Secondary Name,Supplier Name,Supplier Part No,Supplier Price
+Amoxicillin 500mg,PR-11,code128,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG01,90
+Cloxacillin 500mg,PR-12,code129,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG02,90
+Augmentin 625mg,PR-13,code130,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG03,90
+Augment 625mg,PR-14,code131,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG04,90
+Ampicillin 250mg,PR-15,code132,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG05,90
+Spiragyl ,PR-16,code133,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG06,90
+Metzole 500mg,PR-17,code134,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG07,90
+Ciprofloxacin 500mg,PR-18,code135,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG08,90
+Cefixim 200mg,PR-19,code136,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG09,90
+Levofloxacine 500mg,PR-20,code137,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG10,90
+Azithromycin 500mg,PR-21,code138,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG11,90
+Azithromycin 250mg,PR-22,code139,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG12,90
+Ketoconazole 200mg,PR-23,code140,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG13,90
+Lincomycine 500mg,PR-24,code141,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG14,90
+Acyclovir 400mg,PR-25,code142,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG15,90
+Doxycycline 100mg,PR-26,code143,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG16,90
+Cefpodoxim 200mg,PR-27,code144,I Pharmacy,001,,,,90,100,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG17,90
+Poldanmig,PR-28,code145,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG18,90
+Panadol,PR-29,code146,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG19,90
+Panadol extra,PR-30,code147,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG20,90
+Boska,PR-31,code148,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG21,90
+Doliprane 500mg,PR-32,code149,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG22,90
+Glotadol 500mg,PR-33,code150,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG23,90
+Nano Quick 500mg,PR-34,code151,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG24,90
+Efferalgan vit C effe ,PR-35,code152,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG25,90
+Cosic,PR-36,code153,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG26,90
+Nan Tavic,PR-37,code154,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG27,90
+Diclofenac 50mg,PR-38,code155,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG28,90
+Kinaryl,PR-39,code156,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG29,90
+Kinal,PR-40,code157,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG30,90
+Spasfon Kh,PR-41,code158,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG31,90
+Spasfon Fr,PR-42,code159,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG32,90
+Decolgen Forte,PR-43,code160,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG33,90
+Aceclofenac + Para,PR-44,code161,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG34,90
+Kinal Ibu,PR-45,code162,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG35,90
+Gofen 400mg,PR-46,code163,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG36,90
+Ketorolac 10mg,PR-47,code164,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG37,90
+Mebever,PR-48,code165,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG38,90
+Alpha Choay,PR-49,code166,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG39,90
+Efferalgan Codein,PR-50,code167,I Pharmacy,002,,,,90,250,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG40,90
+Nexium 40mg,PR-51,code168,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG41,90
+Barole 20mg,PR-52,code169,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG42,90
+Biorée,PR-53,code170,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG43,90
+Omeprazole 20mg,PR-54,code171,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG44,90
+Konimag,PR-55,code172,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG45,90
+Phosphalugel,PR-56,code173,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG46,90
+Antacil gel,PR-57,code174,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG47,90
+Antacil cp,PR-58,code175,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG48,90
+Oxyboldine,PR-59,code176,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG49,90
+Acticarbine,PR-60,code177,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG50,90
+Peptifiz,PR-61,code178,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG51,90
+Airrox,PR-62,code179,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG52,90
+Polysilane,PR-63,code180,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG53,90
+Sucrafate susp ,PR-64,code181,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG54,90
+Esomeprazole 40mg,PR-65,code182,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG55,90
+Gaviscon,PR-66,code183,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG56,90
+Metoclopramide 10mg,PR-67,code184,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG57,90
+Emazol 40mg,PR-68,code185,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG58,90
+Domperidone,PR-69,code186,I Pharmacy,003,,,,90,300,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG59,90
+Calcium corbière,PR-70,code187,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG60,90
+Omvifer,PR-71,code188,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG61,90
+Laroscobine,PR-72,code189,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG62,90
+Kal-Cee,PR-73,code190,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG63,90
+Sakatonik,PR-74,code191,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG64,90
+Structum,PR-75,code192,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG65,90
+Tanakan,PR-76,code193,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG66,90
+Giloba,PR-77,code194,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG67,90
+Glucosamine,PR-78,code195,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG68,90
+Calci B New,PR-79,code196,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG69,90
+Magné B6,PR-80,code197,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG70,90
+Riboflavine ,PR-81,code198,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG71,90
+Osteocare,PR-82,code199,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG72,90
+Vit E (Boston),PR-83,code200,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG73,90
+Enat 400,PR-84,code201,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG74,90
+Meditadine ,PR-85,code202,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG75,90
+Dynamogene,PR-86,code203,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG76,90
+Megace,PR-87,code204,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG77,90
+Berocca,PR-88,code205,I Pharmacy,004,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG78,90
+Tus-Q,PR-89,code206,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG79,90
+Telfast 120mg,PR-90,code207,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG80,90
+Telfast 180mg,PR-91,code208,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG81,90
+Montelukast + Levocetirizine,PR-92,code209,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG82,90
+Procold,PR-93,code210,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG83,90
+Padéryl,PR-94,code211,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG84,90
+Cinocort ,PR-95,code212,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG85,90
+Nautamin,PR-96,code213,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG86,90
+Zyrtec,PR-97,code214,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG87,90
+Chlorpheniramin,PR-98,code215,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG88,90
+Almetamin,PR-99,code216,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG89,90
+Dexa MS,PR-100,code217,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG90,90
+Simcold,PR-101,code218,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG91,90
+Eugica cp,PR-102,code219,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG92,90
+Acemuc susp,PR-103,code220,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG93,90
+Wood Blue,PR-104,code221,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG94,90
+Wood Red,PR-105,code222,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG95,90
+Momento cp,PR-106,code223,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG96,90
+Momento susp,PR-107,code224,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG97,90
+Turozil forte lozenge,PR-108,code225,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG98,90
+Eugica candy,PR-109,code226,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG99,90
+Coxil extra lozenge,PR-110,code227,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG100,90
+Coxil extra lozenge sugar free,PR-111,code228,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG101,90
+Neo-codion ,PR-112,code229,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG102,90
+Nanhexine 8mg,PR-113,code230,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG103,90
+Anticold ,PR-114,code231,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG104,90
+Bromhexil 8mg,PR-115,code232,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG105,90
+Monocast 5mg,PR-116,code233,I Pharmacy,005,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG106,90
+72h,PR-117,code234,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG107,90
+Eva,PR-118,code235,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG108,90
+Gynaecosid,PR-119,code236,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG109,90
+Clomid,PR-120,code237,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG110,90
+Candid V-1,PR-121,code238,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG111,90
+Ok cp,PR-122,code239,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG112,90
+Ok inj,PR-123,code240,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG113,90
+Megyna,PR-124,code241,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG114,90
+Prezen,PR-125,code242,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG115,90
+Utrogestan,PR-126,code243,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG116,90
+Number 1,PR-127,code244,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG117,90
+Zinnia F,PR-128,code245,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG118,90
+Yasmine,PR-129,code246,I Pharmacy,006,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG119,90
+Duphalac no cam,PR-130,code247,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG120,90
+Duphalac cam,PR-131,code248,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG121,90
+Mucillin,PR-132,code249,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG122,90
+Picolax,PR-133,code250,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG123,90
+Sorbitol,PR-134,code251,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG124,90
+Bisacodyl,PR-135,code252,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG125,90
+Colodium,PR-136,code253,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG126,90
+Enterogermina,PR-137,code254,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG127,90
+Bioflor 250mg,PR-138,code255,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG128,90
+Smecta,PR-139,code256,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG129,90
+Glycerin,PR-140,code257,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG130,90
+Tiorfan,PR-141,code258,I Pharmacy,007,,,,90,350,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG131,90
+Colic aid drops,PR-142,code259,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG132,90
+Azomac,PR-143,code260,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG133,90
+Simethicone susp,PR-144,code261,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG134,90
+Combinol H,PR-145,code262,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG135,90
+Rhino CM,PR-146,code263,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG136,90
+Panol suppo,PR-147,code264,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG137,90
+Kinal red suppo,PR-148,code265,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG138,90
+Kinal blue suppo,PR-149,code266,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG139,90
+Klamentin,PR-150,code267,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG140,90
+Axofen,PR-151,code268,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG141,90
+Metrogyl,PR-152,code269,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG142,90
+Diaryl ,PR-153,code270,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG143,90
+Advil Med,PR-154,code271,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG144,90
+Ibuprofen susp,PR-155,code272,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG145,90
+Rapiclav,PR-156,code273,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG146,90
+Efferalganmed pediatric,PR-157,code274,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG147,90
+Tiril plus syrup,PR-158,code275,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG148,90
+Tiffy syrup 60ml,PR-159,code276,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG149,90
+Tiffy syrup 30ml,PR-160,code277,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG150,90
+Bromped,PR-161,code278,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG151,90
+Salbutamol syrup,PR-162,code279,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG152,90
+Cefiget 200mg,PR-163,code280,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG153,90
+Cefiget 100mg,PR-164,code281,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG154,90
+Ascoril,PR-165,code282,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG155,90
+Kof free,PR-166,code283,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG156,90
+Promethazine syrup,PR-167,code284,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG157,90
+Tussin syrup,PR-168,code285,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG158,90
+Sara 250mg,PR-169,code286,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG159,90
+Sara 120mg,PR-170,code287,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG160,90
+Albendazole susp,PR-171,code288,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG161,90
+Napa,PR-172,code289,I Pharmacy,008,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG162,90
+Amlodipine 5mg,PR-173,code290,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG163,90
+Atenolol denk 50mg,PR-174,code291,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG164,90
+Amlo denk 5mg,PR-175,code292,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG165,90
+Losar denk 50mg,PR-176,code293,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG166,90
+Coveram 5/5,PR-177,code294,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG167,90
+Coveram 10/10,PR-178,code295,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG168,90
+Neoglip,PR-179,code296,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG169,90
+Magtel,PR-180,code297,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG170,90
+Duvel plus,PR-181,code298,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG171,90
+DV-Lin,PR-182,code299,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG172,90
+Losak-H,PR-183,code300,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG173,90
+Teligo-A,PR-184,code301,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG174,90
+CDTEL-H,PR-185,code302,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG175,90
+Clopidogrel 75mg,PR-186,code303,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG176,90
+Aspirin 100mg,PR-187,code304,I Pharmacy,009,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG177,90
+Metformin 850mg,PR-188,code305,I Pharmacy,010,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG178,90
+Glucophage 500mg,PR-189,code306,I Pharmacy,010,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG179,90
+Glucophage 1000mg,PR-190,code307,I Pharmacy,010,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG180,90
+RovistaEZ,PR-191,code308,I Pharmacy,011,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG181,90
+Fenofibrate 200mg,PR-192,code309,I Pharmacy,011,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG182,90
+Diamicron MR 30mg,PR-193,code310,I Pharmacy,011,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG183,90
+Diamicron MR 60mg,PR-194,code311,I Pharmacy,011,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG184,90
+Daflon 500mg,PR-195,code312,I Pharmacy,012,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG185,90
+Daflon 1000mg,PR-196,code313,I Pharmacy,012,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG186,90
+Tetanoreine cream,PR-197,code314,I Pharmacy,012,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG187,90
+Tetanorein suppo,PR-198,code315,I Pharmacy,012,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG188,90
+Livolin ,PR-199,code316,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG189,90
+Liverlon,PR-200,code317,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG190,90
+Hepatina,PR-201,code318,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG191,90
+Berrylact ,PR-202,code319,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG192,90
+Kidflame,PR-203,code320,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG193,90
+Kidney+,PR-204,code321,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG194,90
+Uropril,PR-205,code322,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG195,90
+Ucol ,PR-206,code323,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG196,90
+Tamsolin,PR-207,code324,I Pharmacy,013,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG197,90
+Diclo inj,PR-208,code325,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG198,90
+Vit B12 inj,PR-209,code326,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG199,90
+Neuroplex B1 B6 B12,PR-210,code327,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG200,90
+Tanganil inj,PR-211,code328,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG201,90
+Spasfon inj,PR-212,code329,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG202,90
+Sivkort inj,PR-213,code330,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG203,90
+Metoclopramide inj,PR-214,code331,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG204,90
+Cimetidine inj,PR-215,code332,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG205,90
+Dexa inj,PR-216,code333,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG206,90
+Chlorpheniramine inj,PR-217,code334,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG207,90
+Bromhexine inj,PR-218,code335,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG208,90
+Hydro inj,PR-219,code336,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG209,90
+Ceftriaxone inj,PR-220,code337,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG210,90
+Lipofundine PIV,PR-221,code338,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG211,90
+Vit C inj,PR-222,code339,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG212,90
+Genta inj,PR-223,code340,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG213,90
+Para 1g PIV,PR-224,code341,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG214,90
+Metro PIV,PR-225,code342,I Pharmacy,014,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG215,90
+Gabix 100mg,PR-226,code343,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG216,90
+Gabix 300mg,PR-227,code344,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG217,90
+Pregabalin,PR-228,code345,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG218,90
+Colchicine,PR-229,code346,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG219,90
+Celcox,PR-230,code347,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG220,90
+Zyloric 100mg,PR-231,code348,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG221,90
+Zyloric 200mg,PR-232,code349,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG222,90
+Methylcobal,PR-233,code350,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG223,90
+Myonal,PR-234,code351,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG224,90
+Celecoxib 200mg,PR-235,code352,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG225,90
+Zepam 5mg,PR-236,code353,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG226,90
+Zepam 10mg,PR-237,code354,I Pharmacy,015,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG227,90
+Acrason,PR-238,code355,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG228,90
+Acycol ,PR-239,code356,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG229,90
+Candid B ,PR-240,code357,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG230,90
+Trybetam,PR-241,code358,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG231,90
+Myda 5g,PR-242,code359,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG232,90
+Myda 15g,PR-243,code360,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG233,90
+Dermivex,PR-244,code361,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG234,90
+Nazol ,PR-245,code362,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG235,90
+Bepanthen first aid,PR-246,code363,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG236,90
+Bepanthen ointment,PR-247,code364,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG237,90
+Peds cream,PR-248,code365,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG238,90
+Volini ,PR-249,code366,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG239,90
+Panthenol spray,PR-250,code367,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG240,90
+Nizer ,PR-251,code368,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG241,90
+Hydro cream,PR-252,code369,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG242,90
+Cicatryl,PR-253,code370,I Pharmacy,016,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG243,90
+Nasal spray,PR-254,code371,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG244,90
+Nasomed,PR-255,code372,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG245,90
+Sipran-DX,PR-256,code373,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG246,90
+Tobradex,PR-257,code374,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG247,90
+Natural tear,PR-258,code375,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG248,90
+Dexacol ,PR-259,code376,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG249,90
+V-Rohto,PR-260,code377,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG250,90
+V-Rohto cold,PR-261,code378,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG251,90
+V-Rohto kid,PR-262,code379,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG252,90
+Septyl ,PR-263,code380,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG253,90
+Oral aid,PR-264,code381,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG254,90
+Oracortica,PR-265,code382,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG255,90
+Orrepaste,PR-266,code383,I Pharmacy,017,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG256,90
+Cool kid,PR-267,code384,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG257,90
+Cooling kid,PR-268,code385,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG258,90
+Mentopas,PR-269,code386,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG259,90
+Co-plaster,PR-270,code387,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG260,90
+Tiger Balm plaster,PR-271,code388,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG261,90
+Tiger plaster yellow,PR-272,code389,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG262,90
+Kwanloong,PR-273,code390,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG263,90
+????????????????,PR-274,code391,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG264,90
+???????????????,PR-275,code392,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG265,90
+??????????,PR-276,code393,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG266,90
+??????????,PR-277,code394,I Pharmacy,018,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG267,90
+NSS 1000ml,PR-278,code395,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG268,90
+Klean & Kare 1000ml,PR-279,code396,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG269,90
+Klean & Kare 500ml,PR-280,code397,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG270,90
+NSS 500ml,PR-281,code398,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG271,90
+NSS 100ml,PR-282,code399,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG272,90
+D1/2S 500ml,PR-283,code400,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG273,90
+Betadine 20ml,PR-284,code401,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG274,90
+Betadine 200ml,PR-285,code402,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG275,90
+Oxygenée,PR-286,code403,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG276,90
+Compresse ???,PR-287,code404,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG277,90
+Compresse ??,PR-288,code405,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG278,90
+????,PR-289,code406,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG279,90
+??????? 500ml,PR-290,code407,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG280,90
+??????????,PR-291,code408,I Pharmacy,019,,,,90,200,20,No Tax,exclusive,no_image.png,,,,,,,,,,,Aun Chanrachna,NG281,90
